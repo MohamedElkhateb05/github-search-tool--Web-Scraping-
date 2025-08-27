@@ -1,8 +1,7 @@
-GitHub Repository Search Tool 🔎
-
+GitHub Repository Search Tool
 A Python script to search GitHub repositories and save the results in various file formats. This tool helps you find and collect data on projects by stars, language, or other criteria, with support for pagination and API rate limit handling.
 
-✨ Features
+🌟 Features
 Powerful Search: Query GitHub for repositories based on keywords, minimum stars, and language.
 
 Flexible Output: Save search results in JSON, CSV, TSV, or XML formats.
@@ -22,6 +21,8 @@ pip install requests langdetect
 Note: The urllib3 library is a dependency of requests and will be installed automatically.
 
 Running the Script
+Clone the repository or download the script.
+
 Run the script from your terminal:
 
 python github_search_tool.py
@@ -76,5 +77,3 @@ A markup language with a structured, hierarchical format.
 
 Common in older systems and web services for data transmission.
 
-⚖️ License
-This project is licensed under the MIT License. See the LICENSE file for details.
