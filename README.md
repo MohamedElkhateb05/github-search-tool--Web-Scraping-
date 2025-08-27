@@ -1,4 +1,5 @@
 GitHub Repository Search Tool 🔎
+
 A Python script to search GitHub repositories and save the results in various file formats. This tool helps you find and collect data on projects by stars, language, or other criteria, with support for pagination and API rate limit handling.
 
 ✨ Features
